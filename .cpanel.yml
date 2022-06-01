@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/tirervyq/public_html/
-    - /bin/cp -R /home/tirervyq/repositories/tired-energy/public $DEPLOYPATH
+    - /bin/cp -R /home/tirervyq/repositories/tired-energy/public/* $DEPLOYPATH
