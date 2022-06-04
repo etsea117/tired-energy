@@ -1,14 +1,15 @@
 ---
 title: About
 description: Tired Energy - personal stories from developing a renewable future
-date: '2022-05-31'
+date: 2022-05-31
 aliases:
   - about-us
   - about-tired-energy
   - contact
 license: CC BY-NC-ND
-lastmod: '2022-06-01'
+lastmod: 2022-06-04T06:37:02.116Z
 toc: false
+comments: false
 links:
   - title: Ethan's GitHub
     description: My GitHub is mostly projects and new ideas I am testing out!

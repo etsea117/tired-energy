@@ -6,21 +6,29 @@
         <description>Recent content in Categories on Tired Energy</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 31 May 2022 21:28:40 -0600</lastBuildDate><atom:link href="https://tired.energy/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 04 Jun 2022 06:50:01 +0000</lastBuildDate><atom:link href="https://tired.energy/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>solar</title>
+        <link>https://tired.energy/categories/solar/</link>
+        <pubDate>Sat, 04 Jun 2022 06:50:01 +0000</pubDate>
+        
+        <guid>https://tired.energy/categories/solar/</guid>
+        <description>&lt;img src="https://tired.energy/categories/solar/thomas-coker-Vza4joUQGgY-unsplash.jpeg" alt="Featured image of post solar" /&gt;</description>
+        </item>
+        <item>
         <title>health</title>
         <link>https://tired.energy/categories/health/</link>
-        <pubDate>Tue, 31 May 2022 21:28:40 -0600</pubDate>
+        <pubDate>Sat, 04 Jun 2022 06:45:19 +0000</pubDate>
         
         <guid>https://tired.energy/categories/health/</guid>
-        <description></description>
+        <description>&lt;img src="https://tired.energy/categories/health/marcelo-leal-k7ll1hpdhFA-unsplash.jpeg" alt="Featured image of post health" /&gt;</description>
         </item>
         <item>
         <title>story</title>
         <link>https://tired.energy/categories/story/</link>
-        <pubDate>Tue, 31 May 2022 21:28:40 -0600</pubDate>
+        <pubDate>Sat, 04 Jun 2022 06:43:49 +0000</pubDate>
         
         <guid>https://tired.energy/categories/story/</guid>
-        <description></description>
+        <description>&lt;img src="https://tired.energy/categories/story/joanna-kosinska-B6yDtYs2IgY-unsplash.jpeg" alt="Featured image of post story" /&gt;</description>
         </item>
         
     </channel>
