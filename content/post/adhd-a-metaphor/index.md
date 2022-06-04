@@ -1,5 +1,5 @@
 ---
-title: 'Adhd - a Metaphor'
+title: Adhd - a Metaphor
 date: 2022-05-31T21:39:46-06:00
 draft: true
 toc: false
@@ -7,6 +7,14 @@ image: sascha-bosshard-HRldvxTg6nM-unsplash.jpeg
 image_alt: A bowl of cereal on a plank of wood with cereal spilled out
 image_attr: Sascha Bosshard
 image_attrlink: https://unsplash.com/photos/HRldvxTg6nM
+tags:
+  - personal
+  - adhd
+lastmod: 2022-06-04T06:32:03.731Z
+description: Sharing the experience of having ADHD through metaphor
+categories:
+  - health
+  - story
 ---
 
 ### Let's imagine executive function as a bowl of cereal. Every decision that needs to be made, fun or arduous, requires you to eat the whole bowl of cereal.

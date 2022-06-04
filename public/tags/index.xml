@@ -5,6 +5,47 @@
         <link>https://tired.energy/tags/</link>
         <description>Recent content in Tags on Tired Energy</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://tired.energy/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Tue, 31 May 2022 21:28:40 -0600</lastBuildDate><atom:link href="https://tired.energy/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>construction</title>
+        <link>https://tired.energy/tags/construction/</link>
+        <pubDate>Tue, 31 May 2022 21:28:40 -0600</pubDate>
+        
+        <guid>https://tired.energy/tags/construction/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>narcolepsy</title>
+        <link>https://tired.energy/tags/narcolepsy/</link>
+        <pubDate>Tue, 31 May 2022 21:28:40 -0600</pubDate>
+        
+        <guid>https://tired.energy/tags/narcolepsy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>personal</title>
+        <link>https://tired.energy/tags/personal/</link>
+        <pubDate>Tue, 31 May 2022 21:28:40 -0600</pubDate>
+        
+        <guid>https://tired.energy/tags/personal/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>solar</title>
+        <link>https://tired.energy/tags/solar/</link>
+        <pubDate>Tue, 31 May 2022 21:28:40 -0600</pubDate>
+        
+        <guid>https://tired.energy/tags/solar/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>story</title>
+        <link>https://tired.energy/tags/story/</link>
+        <pubDate>Tue, 31 May 2022 21:28:40 -0600</pubDate>
+        
+        <guid>https://tired.energy/tags/story/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

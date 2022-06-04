@@ -5,6 +5,23 @@
         <link>https://tired.energy/categories/</link>
         <description>Recent content in Categories on Tired Energy</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://tired.energy/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Tue, 31 May 2022 21:28:40 -0600</lastBuildDate><atom:link href="https://tired.energy/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>health</title>
+        <link>https://tired.energy/categories/health/</link>
+        <pubDate>Tue, 31 May 2022 21:28:40 -0600</pubDate>
+        
+        <guid>https://tired.energy/categories/health/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>story</title>
+        <link>https://tired.energy/categories/story/</link>
+        <pubDate>Tue, 31 May 2022 21:28:40 -0600</pubDate>
+        
+        <guid>https://tired.energy/categories/story/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

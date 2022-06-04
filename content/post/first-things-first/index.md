@@ -1,12 +1,23 @@
 ---
-title: "First Things First - I'm Tired"
+title: First Things First - I'm Tired
 date: 2022-05-31T21:28:40-06:00
+description: An introduction into Ethan's journey into the renewable energy industry
 draft: false
 toc: false
 image: kate-stone-matheson-uy5t-CJuIK4-unsplash.jpeg
 image_alt: A kitten asleep under white blankets on a white sheet on a bed
 image_attr: Kate Stone Matheson
 image_attrlink: https://unsplash.com/photos/uy5t-CJuIK4
+tags:
+  - story
+  - personal
+  - narcolepsy
+  - construction
+  - solar
+categories:
+  - story
+  - health
+lastmod: 2022-06-04T05:49:06.627Z
 ---
 
 ### It was September 2018, and I was asleep in my car.

@@ -28,3 +28,7 @@ resources
 
 assets/jsconfig.json
 .DS_Store
+
+.frontmatter
+.vscode
+frontmatter.json

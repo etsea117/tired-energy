@@ -8,6 +8,12 @@ aliases:
   - contact
 license: CC BY-NC-ND
 lastmod: '2022-06-01'
+toc: false
+links:
+  - title: Ethan's GitHub
+    description: My GitHub is mostly projects and new ideas I am testing out!
+    website: https://github.com/etsea117
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
   main:
     weight: -90
@@ -15,7 +21,7 @@ menu:
       icon: user
 ---
 
-### Hi there! I'm a product manager, with 4 years of experience in the solar and energy storage industry.
+### Hi there! My name is Ethan. I'm a product manager, with 4 years of experience in the solar and energy storage industry.
 
 I am neurodiverse and narcoleptic, and this blog is about human experiences - in the renewables field and beyond.
 

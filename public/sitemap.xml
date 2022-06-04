@@ -1,21 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://tired.energy/en/sitemap.xml</loc>
-    
-      <lastmod>2022-05-31T21:28:40-06:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://tired.energy/zh-cn/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://tired.energy/ar/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tired.energy/</loc>
+    <lastmod>2022-06-04T05:49:06+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/categories/</loc>
+    <lastmod>2022-06-04T05:49:06+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/tags/construction/</loc>
+    <lastmod>2022-06-04T05:49:06+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/p/first-things-first-im-tired/</loc>
+    <lastmod>2022-06-04T05:49:06+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/categories/health/</loc>
+    <lastmod>2022-06-04T05:49:06+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/tags/narcolepsy/</loc>
+    <lastmod>2022-06-04T05:49:06+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/tags/personal/</loc>
+    <lastmod>2022-06-04T05:49:06+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/post/</loc>
+    <lastmod>2022-06-04T05:49:06+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/tags/solar/</loc>
+    <lastmod>2022-06-04T05:49:06+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/tags/story/</loc>
+    <lastmod>2022-06-04T05:49:06+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/categories/story/</loc>
+    <lastmod>2022-06-04T05:49:06+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/tags/</loc>
+    <lastmod>2022-06-04T05:49:06+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/about/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/archives/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/page/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tired.energy/taxonomy/term/</loc>
+  </url><url>
+    <loc>https://tired.energy/taxonomy/</loc>
+  </url><url>
+    <loc>https://tired.energy/links/</loc>
+  </url><url>
+    <loc>https://tired.energy/search/</loc>
+  </url>
+</urlset>
