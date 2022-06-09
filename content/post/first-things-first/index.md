@@ -16,8 +16,7 @@ tags:
   - solar
 categories:
   - story
-  - health
-lastmod: 2022-06-04T05:49:06.627Z
+lastmod: 2022-06-09T20:09:54.367Z
 ---
 
 ### It was September 2018, and I was asleep in my car.
@@ -37,3 +36,7 @@ I reached out to a friend who was doing O&M work on utility-scale solar farms to
 This company that my buddy worked for was looking for construction managers to go onsite and oversee the building of 1 MW solar farms in southern Minnesota. Sure it might be a job I've never done, in a place I've never been, but a change of pace sounded real pleasant to me. 3 phone interviews, 24 sugar-free Monster energy drinks, and 1,212 miles later I pulled into a Motel6 in Mankato, Minnesota. It was mid-August 2018 and I was ready to build some renewable energy, find my passion, and probably save the world from climate change.
 
 _Main character syndrome much?_
+
+{{< centertext >}}
+~To Be Continued~
+{{< centertext />}}

@@ -13,6 +13,9 @@ languages:
 # Change it to your Disqus shortname before using
 disqusShortname: tired-energy
 
+# Enabling inline shortcodes
+enableInlineShortcodes: true
+
 # GA Tracking ID
 googleAnalytics:
 
@@ -45,7 +48,7 @@ params:
 
   sidebar:
     emoji:
-    subtitle: 'Ethan - a neurodiverse, narcoleptic product manager who develops renewable energy products.'
+    subtitle: 'Ethan - a neurodiverse, renewable energy product manager with a sleep disorder.'
     avatar:
       enabled: true
       local: true

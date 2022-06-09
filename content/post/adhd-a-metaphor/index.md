@@ -10,11 +10,10 @@ image_attrlink: https://unsplash.com/photos/HRldvxTg6nM
 tags:
   - personal
   - adhd
-lastmod: 2022-06-04T06:32:03.731Z
+lastmod: 2022-06-09T19:04:37.796Z
 description: Sharing the experience of having ADHD through metaphor
 categories:
   - health
-  - story
 ---
 
 ### Let's imagine executive function as a bowl of cereal. Every decision that needs to be made, fun or arduous, requires you to eat the whole bowl of cereal.
