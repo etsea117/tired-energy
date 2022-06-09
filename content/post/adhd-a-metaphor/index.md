@@ -1,7 +1,7 @@
 ---
 title: Adhd - a Metaphor
 date: 2022-05-31T21:39:46-06:00
-draft: true
+draft: false
 toc: false
 image: sascha-bosshard-HRldvxTg6nM-unsplash.jpeg
 image_alt: A bowl of cereal on a plank of wood with cereal spilled out
@@ -10,7 +10,7 @@ image_attrlink: https://unsplash.com/photos/HRldvxTg6nM
 tags:
   - personal
   - adhd
-lastmod: 2022-06-09T19:04:37.796Z
+lastmod: 2022-06-09T20:15:34.698Z
 description: Sharing the experience of having ADHD through metaphor
 categories:
   - health
