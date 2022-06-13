@@ -8,9 +8,10 @@ image_alt: A bowl of cereal on a plank of wood with cereal spilled out
 image_attr: Sascha Bosshard
 image_attrlink: https://unsplash.com/photos/HRldvxTg6nM
 tags:
-  - personal
   - adhd
-lastmod: 2022-06-09T20:15:34.698Z
+  - personal
+  - health
+lastmod: 2022-06-12T19:11:02.397Z
 description: Sharing the experience of having ADHD through metaphor
 categories:
   - health
